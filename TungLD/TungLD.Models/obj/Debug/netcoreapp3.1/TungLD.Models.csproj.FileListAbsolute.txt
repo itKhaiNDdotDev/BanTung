@@ -1,0 +1,10 @@
+K:\TungLD\TungLD.Models\bin\Debug\netcoreapp3.1\TungLD.Models.deps.json
+K:\TungLD\TungLD.Models\bin\Debug\netcoreapp3.1\TungLD.Models.dll
+K:\TungLD\TungLD.Models\bin\Debug\netcoreapp3.1\TungLD.Models.pdb
+K:\TungLD\TungLD.Models\obj\Debug\netcoreapp3.1\TungLD.Models.csproj.AssemblyReference.cache
+K:\TungLD\TungLD.Models\obj\Debug\netcoreapp3.1\TungLD.Models.GeneratedMSBuildEditorConfig.editorconfig
+K:\TungLD\TungLD.Models\obj\Debug\netcoreapp3.1\TungLD.Models.AssemblyInfoInputs.cache
+K:\TungLD\TungLD.Models\obj\Debug\netcoreapp3.1\TungLD.Models.AssemblyInfo.cs
+K:\TungLD\TungLD.Models\obj\Debug\netcoreapp3.1\TungLD.Models.csproj.CoreCompileInputs.cache
+K:\TungLD\TungLD.Models\obj\Debug\netcoreapp3.1\TungLD.Models.dll
+K:\TungLD\TungLD.Models\obj\Debug\netcoreapp3.1\TungLD.Models.pdb
